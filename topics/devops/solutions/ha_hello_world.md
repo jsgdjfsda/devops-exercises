@@ -8,4 +8,4 @@ Set up an highly available "Hello World" application with the following instruct
 
 ### Solution
 
-1. Provision two VMs
+TODO
